@@ -1,9 +1,10 @@
 body {
     color: black;
     background: beige;
-    margin:0px
+    margin: 0px
 }
 
 header {
     border-bottom: solid 2px rgb(225, 199, 0);
+    margin: 20px;
 }
